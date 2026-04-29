@@ -1,0 +1,70 @@
+1. VOTER REGISTRATION
+    * Minimum age: 18 years.
+    * Maximum age limit: None.
+    * Qualifying dates: 1st January, 1st April, 1st July, and 1st October of the election year.
+    * Official websites: https://voters.eci.gov.in/
+    * Deadlines: At least 10 days before the last date of nomination filing for the constituency.
+    * Forms used: Form 6 (available online and offline for new voters).
+
+2. VOTER ID (EPIC CARD)
+    * Process to apply: Submit Form 6 online via the Voter Service Portal or offline at the local BLO/ERO office.
+    * Documents required: Proof of identity, proof of address, proof of age, and a recent passport-size photograph.
+    * Typical processing time: Approximately 1 to 2 months.
+    * How to get a duplicate if lost: Submit Form 8 to request a replacement EPIC card.
+
+3. CHECKING YOUR NAME ON THE VOTER LIST
+    * Methods:
+        - SMS: Send ECI <EPIC Number> to 1950.
+        - App: Use the Voter Helpline App.
+        - Website: Search on the ECI electoral search website (electoralsearch.eci.gov.in).
+        - Phone: Call the toll-free Voter Helpline at 1950.
+    * What to do if name is missing: Fill and submit Form 6 for fresh enrollment and contact the local BLO.
+
+4. POLLING DAY STEPS
+    * What to carry: Voter ID card (EPIC) or any of the 12 alternate photo IDs allowed by the ECI (e.g., Aadhaar card, PAN card, Driving License, Passport).
+    * Procedure inside the polling booth:
+        - Check-in: First polling officer verifies identity using the ID document and the voter list.
+        - Verification: Second polling officer applies indelible ink on the left forefinger and obtains a signature or thumb impression in the register.
+        - Voting: Voter proceeds to the voting compartment, presses the button on the Electronic Voting Machine (EVM) next to the preferred candidate.
+        - VVPAT: A printed slip appears for 7 seconds behind the Voter Verifiable Paper Audit Trail (VVPAT) glass window to confirm the vote.
+    * Role of the presiding officer: Has overall responsibility for maintaining order and ensuring fair polling at the station.
+    * Role of polling agents: Appointed by candidates to observe the process and ensure their party's interests are protected against malpractice.
+    * Name on list but no Voter ID: The voter can still cast their vote by showing one of the 12 alternate ECI-approved photo IDs.
+
+5. GENERAL ELECTION TIMELINE (LOK SABHA)
+    * Phases: The election process begins with the announcement of the schedule by the ECI. The Model Code of Conduct (MCC) comes into effect immediately from this date.
+    * Nominations: Candidates file nominations, followed by scrutiny of these documents, and a period for withdrawal of nominations.
+    * Polling: Usually conducted in multiple phases spanning several weeks across the country.
+    * Counting and results: Counting of votes and result declaration normally occur within a week after the final day of polling.
+    * General Election 2024 dates: Held in 7 phases from April 19, 2024, to June 1, 2024, with counting and results declared on June 4, 2024.
+
+6. KEY BODIES
+    * Election Commission of India (ECI):
+        - Composition: One Chief Election Commissioner and two Election Commissioners.
+        - Powers: Superintendence, direction, and control of all elections to Parliament and State Legislatures.
+        - Appointment: Appointed by the President of India.
+    * BLO (Booth Level Officer): A local government employee responsible for maintaining and updating the electoral roll at the booth level, distributing voter slips, and assisting voters.
+    * ERO (Electoral Registration Officer): The designated officer responsible for the preparation and revision of electoral rolls for an assembly constituency.
+    * DEO (District Election Officer): The officer (usually the District Magistrate) who supervises all election-related work within a district under the direction of the ECI.
+
+7. MODEL CODE OF CONDUCT (MCC)
+    * What it is: A set of guidelines issued by the ECI to regulate political parties and candidates prior to elections.
+    * When it applies: Takes effect immediately upon the announcement of the election schedule and remains until the results are declared.
+    * Key rules: Prohibits the use of official machinery for campaigning, making new policy announcements, and using religious places for election propaganda.
+
+8. EVM & VVPAT SECURITY
+    * Security features: EVMs are standalone, non-networked machines with one-time programmable chips, immune to cyber-attacks.
+    * How tampering is prevented: Secure storage in strong rooms, multi-level checks, randomized allocation, and sealing in the presence of party representatives.
+    * Audit trail process: VVPAT provides a printed paper slip for voters to verify their vote; slips from 5 randomly selected polling stations per constituency are counted and matched.
+
+9. STATE VS. GENERAL ELECTIONS
+    * General Elections (Lok Sabha): Held nationally to elect Members of Parliament (MPs) who form the Central Government.
+    * State Elections (Vidhan Sabha): Held state-wise to elect Members of Legislative Assembly (MLAs) who form the State Government.
+
+10. VOTER TURNOUT
+    * Historical trends: Voter turnout has generally increased over the decades, reflecting growing political participation.
+    * Importance of participation: High turnout ensures better democratic representation and strengthens the legitimacy of elected governments.
+
+11. NRI & OVERSEAS VOTING
+    * Registration process: Submit Form 6A online or offline to the Electoral Registration Officer of the constituency corresponding to the address on the Indian passport.
+    * Voting process: Currently, NRIs must be physically present at their designated polling booth in India on voting day to cast their vote.
