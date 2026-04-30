@@ -121,7 +121,7 @@ for message in st.session_state.chat_history:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
 
-user_input = st.chat_input("Ask a question...")
+user_input = st.chat_input("Ask a question in your preferred language...")
 if prompt:
     user_input = prompt
 
@@ -129,10 +129,16 @@ if user_input:
     st.chat_message("user").markdown(user_input)
     st.session_state.chat_history.append({"role": "user", "content": user_input})
     kb_text = load_knowledge_base()
-    try:
-        reply = get_response(user_input, chat_history=st.session_state.chat_history[:-1], knowledge_text=kb_text)
-        st.chat_message("assistant").markdown(reply)
-        st.session_state.chat_history.append({"role": "assistant", "content": reply})
-    except Exception as e:
-        st.error(f"An error occurred: {e}")
-        st.session_state.chat_history.pop()
+    with st.chat_message("assistant"):
+        with st.spinner("Translating and thinking..."):
+            try:
+                reply = get_response(user_input, chat_history=st.session_state.chat_history[:-1], knowledge_text=kb_text)
+                st.markdown(reply)
+                st.session_state.chat_history.append({"role": "assistant", "content": reply})
+            except Exception as e:
+                error_str = str(e)
+                if 'RetryError' in error_str or '429' in error_str or 'ResourceExhausted' in error_str:
+                    st.warning('⚠️ System Busy: The Election Assistant is currently helping many citizens at once. Please wait about 60 seconds and try your question again.')
+                else:
+                    st.error(f"An error occurred: {e}")
+                st.session_state.chat_history.pop()
