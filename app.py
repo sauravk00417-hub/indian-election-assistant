@@ -95,7 +95,7 @@ st.title("Election Assistant")
 st.markdown("<p style='text-align: center; color: #888; font-size: 1.1rem; margin-bottom: 20px;'>Your guide to Indian elections</p>", unsafe_allow_html=True)
 
 st.markdown("""
-<div class="welcome-card">
+<div class="welcome-card" role="region" aria-label="Welcome Message">
     <h3>Welcome to the Indian Election Assistant! 🇮🇳</h3>
     <p style='margin-bottom: 0;'>I am here to help you with voter registration, polling day procedures, election timelines, and more. Select a question below or type your own in the chat box!</p>
 </div>
